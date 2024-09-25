@@ -1,0 +1,4 @@
+from .emailnator import EmailnatorWrapper
+
+__all__ = ['EmailnatorWrapper']
+__version__ = '0.1.0'
